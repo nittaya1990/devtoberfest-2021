@@ -1,12 +1,15 @@
 # Devtoberfest 2021 from SAP
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/devtoberfest-2021)](https://api.reuse.software/info/github.com/SAP-samples/devtoberfest-2021)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/SAP-samples/devtoberfest-2021)
 
 [![Contributors Display](https://badges.pufler.dev/contributors/SAP-samples/devtoberfest-2021?size=50&padding=5&bots=false)](https://badges.pufler.dev)
 
 <img src="./images/Devtoberfest.jpg" width="200">
 
 ## Description
+
+Devtoberfest might be over, but the fun and learning is just starting. We hope that everyone joins this week for [SAP TechEd 2021](https://reg.sapevents.sap.com/flow/sap/sapteched2021/portal/page/overview).  Also all of the content from Devtoberfest remains available for replay.  We will be performing the final points calculations on November 13th and 14th and then announcing the overall winner during the closing hour of SAP TechEd 2021. See you all there!
 
 Devtoberfest is a 6-week event, leading up to SAP TechEd. This event is to be seen as a celebration of and for Developers. Every developer is welcome to join 6 weeks of tech talks, guest speakers, community contribution through a gamified learning journey with prizes, and celebratory events.
 
@@ -31,9 +34,9 @@ A list of all submitted open source projects to be part of Devtoberfest with det
 | | Oct 18 - 22 | [Week 3 - Cloud Native](topics/Week3_Cloud_Native/README.md) |
 | | Oct 25 - 29 | [Week 4 - Security](topics/Week4_Security/README.md) |
 | | Nov 1 - 5 | [Week 5 - Data && Analytics](topics/Week5_Data/README.md) |
-| Current Week | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
+| | Nov 8 - 12 | [Week 6 - Frontend](topics/Week6_Frontend/README.md) |
 | | Nov 12 | Devtoberfest Ends |
-| | Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
+| Current Week | Nov 16 | [TechEd Begins](https://reg.sapevents.sap.com/flow/sap/sapteched2021/overview/page/content)
 
 
 ## Contest (The Game)
